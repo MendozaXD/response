@@ -1,0 +1,14 @@
+GET /app/web/control/login/actions.php?action=do_login&a=1&callback=show_pop_entrance&school_id=5141&login=amendoza&password=1644&type=UAA&door=LOCECOM&_=1603134979387 HTTP/1.1
+Host: plataforma.ciudadeducativa.com
+Connection: close
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://plataforma.ciudadeducativa.com/app/web/gate/
+Accept-Encoding: gzip, deflate
+Accept-Language: es-ES,es;q=0.9
+Cookie: PHPSESSID=xkv9bghqejgd8lxxjxvd5ecrld
+
